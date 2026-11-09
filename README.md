@@ -10,7 +10,7 @@
 
 MBA (Finance major, Operations minor) at ICFAI Business School, Bangalore — Class of 2027, based in Bengaluru, India (B.Tech Civil → MBA). I build small, useful open-source tools and publish my finance work in public: DCF models, company analysis, and simple products for students who live on irregular income, just like I do.
 
-**Featured project — [DCF-Model-Generator](https://github.com/ishant23s/DCF-Model-Generator):** type a company name and download a full DCF valuation model in Excel with live formulas — WACC build-up, 5-year FCFF forecast, valuation and sensitivity. Automatic mode pulls reported annual financials free from Yahoo Finance; manual mode takes your own numbers. Streamlit app, 100% free, no API key.
+**Featured project — [DCF-Model-Generator](https://github.com/ishant23s/DCF-Model-Generator):** type a company name and download a full DCF valuation model in Excel with live formulas — WACC build-up, 5-year FCFF forecast, valuation and sensitivity. Automatic mode pulls reported annual financials free from Yahoo Finance; manual mode takes your own numbers. Streamlit app, 100% free, no API key. **▶️ Live: [dcf-model-generator.streamlit.app](https://dcf-model-generator.streamlit.app/)**
 
 **Also featured — [Expense-Tracker](https://github.com/ishant23s/Expense-Tracker):** a private-by-design expense tracker for irregular income (pocket money, freelance, part-time work). Per-month budgets, category breakdown, savings rate, CSV export — no account, no server, no tracking, zero dependencies, with Node unit tests.
 
