@@ -2,7 +2,7 @@
 <h3 align="center">MBA Finance @ IBS Bangalore (2025–27) | Financial Modelling, Equity Research & Business Analytics</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Expense-Tracker — https://github.com/ishant23s/Expense-Tracker<br>👯 I’m looking to collaborate on Finance dashboards, reporting and small open-source tools for students<br>🌱 I’m currently learning DCF valuation and financial modelling — 21-Day Analyst Challenge (DMart, ITC, TCS)<br>💬 Ask me about Financial modelling, DCF, Excel, Power BI, equity research<br>⚡ Fun fact I track a tiny monthly ETF portfolio and write down why, not just what
+🔭 I’m currently working on DCF-Model-Generator — https://github.com/ishant23s/DCF-Model-Generator<br>👯 I’m looking to collaborate on Finance dashboards, reporting and small open-source tools for students<br>🌱 I’m currently learning DCF valuation and financial modelling — 21-Day Analyst Challenge (DMart, ITC, TCS)<br>💬 Ask me about Financial modelling, DCF, Excel, Power BI, equity research<br>⚡ Fun fact I track a tiny monthly ETF portfolio and write down why, not just what
 
 
 
@@ -10,7 +10,9 @@
 
 MBA (Finance major, Operations minor) at ICFAI Business School, Bangalore — Class of 2027, based in Bengaluru, India (B.Tech Civil → MBA). I build small, useful open-source tools and publish my finance work in public: DCF models, company analysis, and simple products for students who live on irregular income, just like I do.
 
-**Featured project — [Expense-Tracker](https://github.com/ishant23s/Expense-Tracker):** a private-by-design expense tracker for irregular income (pocket money, freelance, part-time work). Per-month budgets, category breakdown, savings rate, CSV export — no account, no server, no tracking, zero dependencies, with Node unit tests.
+**Featured project — [DCF-Model-Generator](https://github.com/ishant23s/DCF-Model-Generator):** type a company name and download a full DCF valuation model in Excel with live formulas — WACC build-up, 5-year FCFF forecast, valuation and sensitivity. Automatic mode pulls reported annual financials free from Yahoo Finance; manual mode takes your own numbers. Streamlit app, 100% free, no API key.
+
+**Also featured — [Expense-Tracker](https://github.com/ishant23s/Expense-Tracker):** a private-by-design expense tracker for irregular income (pocket money, freelance, part-time work). Per-month budgets, category breakdown, savings rate, CSV export — no account, no server, no tracking, zero dependencies, with Node unit tests.
 
 **Also building:** Case-Study-Skills (a multi-agent case-study solver) and Life Board of Directors (a "run your life like a company" AI skill pack) — built and in use, public repos next.
 
