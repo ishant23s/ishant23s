@@ -1,68 +1,45 @@
-# Hi, I'm Ishant Saugat 👋
+<h1 align="center">Hi 👋, I'm Ishant Saugat</h1>
+<h3 align="center">MBA Finance @ IBS Bangalore (2025–27) | Financial Modelling, Equity Research & Business Analytics</h3>
 
-**MBA Finance @ IBS Bangalore (2025–27) · Financial Modelling · Equity Research · Business Analytics**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishant23s&label=Profile%20views&color=0e75b6&style=flat" alt="ishant23s" /> </p>
 
-I build small, useful open-source tools and publish my finance work in public — DCF models, company analysis, and simple products for students who live on irregular income, just like I do.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishant23s" alt="ishant23s" /></a> </p>
 
-📍 Bengaluru, India &nbsp;|&nbsp; 🎓 B.Tech (Civil) → MBA Finance & Operations &nbsp;|&nbsp; 💼 Open to finance & analytics roles
+- 🔭 I'm currently working on [Expense-Tracker](https://github.com/ishant23s/Expense-Tracker)
 
----
+- 🌱 I'm currently learning **DCF valuation and financial modelling — 21-Day Analyst Challenge (DMart, ITC, TCS)**
 
-## About me
+- 👯 I'm looking to collaborate on **Finance dashboards, reporting and small open-source tools for students**
 
-- 🏦 MBA (Finance major, Operations minor) at **ICFAI Business School, Bangalore** — Class of 2027
-- 📊 Currently doing the **21-Day Analyst Challenge**: building full DCF models in Excel for DMart, ITC and TCS, with a daily public write-up
-- 📈 Investing learner — tracking a small monthly portfolio and writing down *why*, not just *what*
-- 🛠️ Builder — I turn problems from my own student life into working, dependency-free web tools
-- 🎯 Focus areas: financial modelling, valuation, reporting dashboards, and business analysis for senior stakeholders
+- 💬 Ask me about **Financial modelling, DCF, Excel, Power BI, equity research**
 
-## Featured project
+- 📫 How to reach me **ishantsaugat23@gmail.com**
 
-### [💰 Expense-Tracker](https://github.com/ishant23s/Expense-Tracker)
+- 📍 Based in **Bengaluru, India** — B.Tech (Civil) → MBA Finance & Operations, open to finance & analytics roles
 
-A simple, private-by-design expense tracker built for students and freelancers whose income is **irregular** — pocket money, part-time work, freelance payments — not a fixed salary.
+- ⚡ Fun fact **I track a tiny monthly ETF portfolio and write down why, not just what**
 
-- Add, edit, search & delete income/expense transactions
-- Per-month budgets with 80% warning and overspend flags
-- Category breakdown, savings rate, and CSV export
-- **No account, no server, no tracking** — data stays in your browser (localStorage)
-- Plain HTML / CSS / JavaScript, zero dependencies, with Node unit tests for the calculation logic
+### About me
 
-▶️ *Tip: enable GitHub Pages on the repo (Settings → Pages → deploy from `main`) to use it live in your browser.*
+MBA (Finance major, Operations minor) at ICFAI Business School, Bangalore — Class of 2027. I build small, useful open-source tools and publish my finance work in public: DCF models, company analysis, and simple products for students who live on irregular income, just like I do.
 
-## Also building
+**Featured project — [Expense-Tracker](https://github.com/ishant23s/Expense-Tracker):** a private-by-design expense tracker for irregular income (pocket money, freelance, part-time work). Per-month budgets, category breakdown, savings rate, CSV export — no account, no server, no tracking, zero dependencies, with Node unit tests.
 
-- **Case-Study-Skills** — a multi-agent system (Reader → Thinker → Solver → Critic → Fixer → Answer Writer) that solves business case studies step by step, packaged as portable AI skills
-- **Life Board of Directors** — a “run your life like a company” skill pack: a CFO, COO, Health Director, Career Director and Devil’s Advocate who review your week like a board meeting — with a strict *no invented data* rule
+**Also building:** Case-Study-Skills (a multi-agent case-study solver) and Life Board of Directors (a "run your life like a company" AI skill pack) — built and in use, public repos next.
 
-> Both are built and in use locally; public repos are next.
+**Finance skills:** Financial Modelling · DCF Valuation · Investment Analysis · Equity Research · Ratio Analysis · Advanced Excel (Pivot Tables, sensitivity analysis) · Power BI · KPI Reporting — plus SEBI–NISM and Bloomberg Market Concepts (BMC). SAP S/4HANA exposure via Business Process Integration coursework.
 
-## Skills & tools
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="mailto:ishantsaugat23@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@13/icons/gmail.svg" alt="ishantsaugat23@gmail.com" height="30" width="40" /></a>
+<a href="https://github.com/ishant23s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@13/icons/github.svg" alt="ishant23s" height="30" width="40" /></a>
+</p>
 
-**Finance:** Financial Modelling · DCF Valuation · Investment Analysis · Equity Research · Ratio Analysis
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-**Analytics & Reporting:** Advanced Excel (Pivot Tables, lookups, sensitivity analysis) · Power BI · Data Visualisation · KPI Reporting · Business Analytics
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishant23s&show_icons=true&locale=en&layout=compact" alt="ishant23s" /></p>
 
-**Building:** HTML · CSS · JavaScript · Git & GitHub
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishant23s&show_icons=true&locale=en" alt="ishant23s" /></p>
 
-**Coursework exposure:** SAP S/4HANA via Business Process Integration coursework · SEBI–NISM certification · Bloomberg Market Concepts (BMC)
-
-## GitHub stats
-
-![Ishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishant23s&show_icons=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishant23s&layout=compact)
-
-## What I'm learning right now
-
-- Deeper DCF & sensitivity modelling — Week 3 of the Analyst Challenge (TCS)
-- How AI agents and reusable “skills” can do real finance and case-study work
-- Writing in public: one LinkedIn post a day from my analyst work
-
-## Connect with me
-
-- 📧 **Email:** ishantsaugat23@gmail.com
-- 💻 **GitHub:** [@ishant23s](https://github.com/ishant23s)
-
----
-
-*“Track only what you actually did, model only what you can explain, and build only what you’d use yourself.”*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishant23s&" alt="ishant23s" /></p>
